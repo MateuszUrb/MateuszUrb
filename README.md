@@ -10,8 +10,8 @@
 - 🤣 Fun fact **Sphenopalatine ganglioneuralgia is the medical term for brain freeze.**
 
 ## Spotify | currently playing 🎧
-<br>
 </br>
+
 [![Spotify](https://novatorem12.vercel.app/api/spotify)](https://open.spotify.com/user/11161491278)
 
 ## tech stack that I was using in my projects 🧰
