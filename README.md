@@ -11,7 +11,7 @@
 - 🤣 Fun fact **Sphenopalatine ganglioneuralgia is the medical term for brain freeze.**
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/liyasthomas/templates/master/assets/logo.gif" alt="unicorn" width="200">
+ <img src="https://github.com/jglovier/gifs/blob/gh-pages/careful/indiana-jones-sand-bag.gif" alt="unicorn" width="200">
 </div>
   
 ## Spotify | currently playing 🎧
