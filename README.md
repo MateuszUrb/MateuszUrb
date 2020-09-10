@@ -1,31 +1,20 @@
-<h1 align="center">Hi, Mateusz</h1>  👋
+<h1 align="center">Hi 👋, I'm Mateusz</h1>
+- 🔭 I’m currently working on [ApiFinder](https://fervent-mestorf-3d691e.netlify.app/)
 
-- 🔭 I’m currently learning React 🤓
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- 🤣 Fun fact: Sphenopalatine ganglioneuralgia is the medical term for brain freeze.
-- 📫 How to reach me **09m.urban@gmail.com**
+- 🤓 I’m currently learning **React**
 
-### Spotify 🎧
-[![Spotify](https://novatorem1-beta.vercel.app/api/spotify)](https://open.spotify.com/user/11161491278)
+- 👨‍💻 All of my projects are available at [https://github.com/MateuszUrb](https://github.com/MateuszUrb)
 
+- 📫 How to reach me **98m.urban@gmail.com**
 
-### Connect with me:
+- 🤣 Fun fact **Sphenopalatine ganglioneuralgia is the medical term for brain freeze.**
 
-[<img align="left" alt="M_Urban98" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mateusz-urban | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="matiprzekomin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align="left"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p>
 
-<br />
-
-### Language & Tools that i been using 🧰:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-[<img align="left" alt="Npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png />]
-[<img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png />]
+<p align="center">
+<a href="https://twitter.com/m_urban98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="m_urban98" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/mateusz-urban-17804413b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mateusz-urban-17804413b" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/mateusz urban" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mateusz urban" height="30" width="30" /></a>
+<a href="https://fb.com/mateusz.urban.353" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mateusz.urban.353" height="30" width="30" /></a>
+<a href="https://instagram.com/matiprzekomin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="matiprzekomin" height="30" width="30" /></a>
+</p>
