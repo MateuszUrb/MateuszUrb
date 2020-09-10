@@ -1,11 +1,13 @@
-### Hi, I'm Mateusz  👋
+<h1 align="center">Hi, Mateusz</h1>  👋
 
 - 🔭 I’m currently learning React 🤓
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- 🤣 Fun fact: I love to draw and play guitar / drums
+- 🤣 Fun fact: Sphenopalatine ganglioneuralgia is the medical term for brain freeze.
+- 📫 How to reach me **09m.urban@gmail.com**
 
 ### Spotify 🎧
-[<img src="https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj?highlight=spotify:track:7wMq5n8mYSKlQIGECKUgTX" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/11161491278)
+[![Spotify](https://https://novatorem-jade-ten.vercel.app/api/spotify)](https://open.spotify.com/user/11161491278)
+
 
 ### Connect with me:
 
@@ -25,5 +27,5 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-[<img align="left" alt="Npm" width="26px" src="https://img.icons8.com/color/452/npm.png />]
-[<img align="left" alt="Npm" width="26px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-small.png />]
+[<img align="left" alt="Npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png />]
+[<img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png />]
