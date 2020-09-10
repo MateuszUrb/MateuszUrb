@@ -14,7 +14,7 @@
 <p align="center">
 <a href="https://twitter.com/m_urban98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="m_urban98" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/mateusz-urban-17804413b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mateusz-urban-17804413b" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/mateusz urban" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mateusz urban" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/mateusz-urban" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mateusz urban" height="30" width="30" /></a>
 <a href="https://fb.com/mateusz.urban.353" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mateusz.urban.353" height="30" width="30" /></a>
 <a href="https://instagram.com/matiprzekomin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="matiprzekomin" height="30" width="30" /></a>
 </p>
