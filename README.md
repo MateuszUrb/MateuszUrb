@@ -6,7 +6,7 @@
 - 📫 How to reach me **09m.urban@gmail.com**
 
 ### Spotify 🎧
-[![Spotify](https://https:/novatorem-jade-ten.vercel.app/api/spotify)](https://open.spotify.com/user/11161491278)
+[![Spotify](https:/novatorem-jade-ten.vercel.app/api/spotify)](https://open.spotify.com/user/11161491278)
 
 
 ### Connect with me:
