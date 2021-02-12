@@ -8,11 +8,6 @@
 - 📫 How to reach me **98m.urban@gmail.com**
 
 
-<style>
-H1{color:Blue !important;}
-H2{color:DarkOrange !important;}
-p{color:#58a6ff !important;}
-</style>
 
 </br>
    </br>
