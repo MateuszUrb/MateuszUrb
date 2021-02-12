@@ -39,7 +39,7 @@
 
 </br>
 
-<h2 style="color:blue">Learning in progress...</h2> 💻
+<span style="color:blue">**Learning in progress...**</span> 💻
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/> 
 </p>
