@@ -1,7 +1,7 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hi%20There👨‍💻&text2=💖%20Open%20Source&width=1000&height=500)
+![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&origin&text1=Hi%20There👨‍💻&text1=Hi%20There&width=1000&height=500)
 
 
-- 🔭 I’m currently working ...
+- 🔭 I’m currently working on ... /Learning
 
 - 🤓 I’m currently learning **React and libs**
 
