@@ -7,6 +7,13 @@
 
 - 📫 How to reach me **98m.urban@gmail.com**
 
+
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:#58a6ff !important;}
+</style>
+
 </br>
    </br>
 
@@ -39,7 +46,7 @@
 
 </br>
 
-<span style="color:blue">**Learning in progress...**</span> 💻
+## Learning in progress... 💻
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/> 
 </p>
