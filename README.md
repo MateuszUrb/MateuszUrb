@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hithere,I'mMateuszUrban&text2=💖%20Open%20Source&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hithere,I'mMateuszUrban&text2=💖%20Open%20Source&width=100vw&height=400)](https://github.com/Akshay090/svg-banners)
 
 
 - 🔭 I’m currently working ...
