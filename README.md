@@ -1,5 +1,6 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hi%20There👨‍💻&width=1200&height=500)
-
+<p align="center">
+   ![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hi%20There👨‍💻&width=1200&height=500)
+</p>
 
 - 🔭 I’m currently working on ... /Learning
 
@@ -11,6 +12,9 @@
 
    - I started getting more interest in the web, he's technologies, and how it works under the hood while I was in my second year of high school, and from that point in time I started learning about primarily front-end tech stack, and now I'm looking for a job as full-time front-end dev hopefully in the near future, I'm also a learning bit about security in the web(XSS, web-scraping, validation, etc..., )
 <div align="center">
+   
+   </br>
+   
  <img src="https://github.com/jglovier/gifs/blob/gh-pages/careful/indiana-jones-sand-bag.gif" alt="unicorn" width="400">
 </div>
   
