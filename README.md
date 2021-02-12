@@ -10,7 +10,7 @@
 </br>
    </br>
 
-   <p> <strong style="color:blue">I</strong> started getting more interest in the web, he's technologies, and how it works under the hood while I was in my second year of high school, and from that point in time I started learning about primarily front-end tech stack, and now I'm looking for a job as full-time front-end dev hopefully in the near future, I'm also a learning bit about security in the web(XSS, web-scraping, validation, etc..., )
+   <p> <strong>I</strong> started getting more interest in the web, he's technologies, and how it works under the hood while I was in my second year of high school, and from that point in time I started learning about primarily front-end tech stack, and now I'm looking for a job as full-time front-end dev hopefully in the near future, I'm also a learning bit about security in the web(XSS, web-scraping, validation, etc..., )
    </h4>
    
    </br>
@@ -39,7 +39,7 @@
 
 </br>
 
-## Learning in progress... 💻
+<h2 style="color:blue">Learning in progress...</h2> 💻
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/> 
 </p>
