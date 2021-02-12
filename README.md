@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=glitch%20origin&text1=Hi%20There👨‍💻&width=1000&height=500)
+![SVG Banners](https://svg-banners.vercel.app/api?type=[glitch,origin]&text1=Hi%20There👨‍💻&width=1000&height=500)
 
 
 - 🔭 I’m currently working on ... /Learning
