@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hi%20There👨‍💻text2=💖%20Open%20Source&width=1000&height=500)
+![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hi%20There👨‍💻&text2=💖%20Open%20Source&width=1000&height=500)
 
 
 - 🔭 I’m currently working ...
@@ -43,7 +43,7 @@
 ## where you can find me📯
 
 <p align="left">
-<a href="https://twitter.com/m_urban98" target="blank"><img align="center" fill="white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="m_urban98" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/mateusz-urban-17804413b" target="blank"><img fill="white" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mateusz-urban-17804413b" height="30" width="30" /></a>
-<a href="https://fb.com/mateusz.urban.353" target="blank"><img fill="white" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mateusz.urban.353" height="30" width="30" /></a>
+<a href="https://twitter.com/m_urban98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="m_urban98" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/mateusz-urban-17804413b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mateusz-urban-17804413b" height="30" width="30" /></a>
+<a href="https://fb.com/mateusz.urban.353" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mateusz.urban.353" height="30" width="30" /></a>
 </p>
