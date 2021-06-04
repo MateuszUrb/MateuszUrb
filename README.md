@@ -1,5 +1,5 @@
    ![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hi%20There👨‍💻&width=1300&height=500)
-- 🔭 I’m currently working on ... [https://github.com/MateuszUrb/Paper_world_website](paper-world)
+- 🔭 I’m currently working on ... [paper-world](https://github.com/MateuszUrb/Paper_world_website)
 
 - 🤓 I’m currently learning **React and libs**
 
