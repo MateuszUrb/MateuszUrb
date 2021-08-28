@@ -11,7 +11,7 @@
 ```javascript
    98urban.mateusz@gmail.com 
 ```
-
+[go](mailto:98urban.mateusz@gmail.com"){:target="_blank"}
 
 </br>
    </br>
