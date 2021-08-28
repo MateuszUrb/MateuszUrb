@@ -6,7 +6,7 @@
 
  💻 All of my projects are available at [https://github.com/MateuszUrb](https://github.com/MateuszUrb)
 
- 📫 How to reach me **98m.urban@gmail.com**
+<img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="30px"> How to reach me [mailto](mailto:98urban.mateusz@gmail.com)
 
 
 </br>
@@ -107,11 +107,11 @@
          <br>Twitter
        </td>
       <td align="center" width="96">
-<a href="https://linkedin.com/in/mateusz-urban-17804413b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mateusz-urban-17804413b" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/mateusz-urban-17804413b" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="mateusz-urban-17804413b" height="30" width="30" /></a>
           <br>Linkedin
       </td>
       <td align="center" width="96">
-<a href="https://fb.com/mateusz.urban.353" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mateusz.urban.353" height="30" width="30" /></a>
+<a href="https://fb.com/mateusz.urban.353" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/733/733547.png" alt="mateusz.urban.353" height="30" width="30" /></a>
           <br>Facebook
       </td>
    </tr>
