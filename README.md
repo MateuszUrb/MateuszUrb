@@ -23,7 +23,7 @@
 
 </br>   
 
-<h2 align="left">Favorite Tech</h2>
+<h2>Favorite Tech</h2>
 
 > Tools, languages, I have worked with
 
@@ -72,7 +72,7 @@
 </br>
 
 <h2>Learning in progress / want to learn 💻</h2>
-<table align="left">
+<table align="center">
    <tr>
       <td align="center" width="96">
          <a href="#suhailkakar-tech">
