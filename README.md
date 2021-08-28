@@ -99,7 +99,7 @@
 </br>
 
 <h2>where you can find me 📯</h2>
-<table align="center">
+<table align="left">
    <tr>
        <td align="center" width="96">
 <a href="https://twitter.com/m_urban98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="m_urban98" height="30" width="30" /></a>
