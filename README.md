@@ -74,6 +74,7 @@
 </table>
 
 </br>
+</br>
 
 ## Learning in progress / want to learn 💻
 <table align="left">
@@ -95,7 +96,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
-    </td>X
+    </td>
    </tr>
 </table>
 
@@ -106,4 +107,3 @@
 <a href="https://linkedin.com/in/mateusz-urban-17804413b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mateusz-urban-17804413b" height="30" width="30" /></a>
 <a href="https://fb.com/mateusz.urban.353" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mateusz.urban.353" height="30" width="30" /></a>
 </p>
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
