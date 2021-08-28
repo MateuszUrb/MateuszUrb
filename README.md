@@ -21,12 +21,6 @@
 
 [![Spotify](https://novatorem12.vercel.app/api/spotify)](https://open.spotify.com/user/11161491278)
    
-   </br>
-   </br>
-   
-<div align="center">   
- <img src="https://github.com/jglovier/gifs/blob/gh-pages/careful/indiana-jones-sand-bag.gif" alt="unicorn" width="400">
-</div>
 
 <h2 align="left" id="suhailkakar-tech">Favorite Tech</h2>
 
@@ -76,7 +70,7 @@
 </br>
 </br>
 
-## Learning in progress / want to learn 💻
+<h2 align="left">Learning in progress / want to learn 💻</h2
 <table align="left">
    <tr>
       <td align="left" width="96">
@@ -100,7 +94,7 @@
    </tr>
 </table>
 
-## where you can find me📯
+<h align="left"2>where you can find me 📯</h2>
 
 <p align="left">
 <a href="https://twitter.com/m_urban98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="m_urban98" height="30" width="30" /></a>
