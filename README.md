@@ -20,13 +20,14 @@
 </br>
 
 [![Spotify](https://novatorem12.vercel.app/api/spotify)](https://open.spotify.com/user/11161491278)
-   
+
+</br>   
 
 <h2 align="left" id="suhailkakar-tech">Favorite Tech</h2>
 
 > Tools, languages, I have worked with
 
-<table align="left">
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
@@ -70,10 +71,10 @@
 </br>
 </br>
 
-<h2 align="left">Learning in progress / want to learn 💻</h2
+<h2 align="left">Learning in progress / want to learn 💻</h2>
 <table align="left">
    <tr>
-      <td align="left" width="96">
+      <td align="center" width="96">
          <a href="#suhailkakar-tech">
             <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
          </a>
@@ -94,7 +95,7 @@
    </tr>
 </table>
 
-<h align="left"2>where you can find me 📯</h2>
+<h2 align="left"2>where you can find me 📯</h2>
 
 <p align="left">
 <a href="https://twitter.com/m_urban98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="m_urban98" height="30" width="30" /></a>
