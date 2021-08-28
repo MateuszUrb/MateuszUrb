@@ -8,7 +8,7 @@
 
 <img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="15px"> How to reach me 
 ```javascript
-console.log("98urban.mateusz@gmail.com")
+98urban.mateusz@gmail.com
 ```
 || send me [Mail](mailto:98urban.mateusz@gmail.com)
 
