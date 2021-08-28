@@ -1,13 +1,12 @@
-   ![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hi%20There👨‍💻&width=1300&height=500)
+![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Welcome👨‍💻&width=1300&height=500)
    
-## 🔭 I’m currently working on ... learning by doing
+<h2>🔭</h2> I’m currently working on ... learning by doing
 
-## 🤓 I’m currently learning **CSS Freamwork(Tailwing)**
+<h2>🤓</h2> I’m currently learning **CSS Freamwork(Tailwing)**
 
-## 👨‍💻 All of my projects are available at [https://github.com/MateuszUrb](https://github.com/MateuszUrb)
+<h2>👨‍💻</h2> All of my projects are available at [https://github.com/MateuszUrb](https://github.com/MateuszUrb)
 
-## 📫 How to reach me **98m.urban@gmail.com**
-
+<h2>📫</h2> How to reach me **98m.urban@gmail.com**
 
 
 </br>
@@ -96,6 +95,7 @@
    </tr>
 </table>
 
+</br>
 </br>
 
 <h2>where you can find me 📯</h2>
