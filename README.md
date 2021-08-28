@@ -30,37 +30,37 @@
 <table align="canter">
   <tr>
     <td align="center" width="96">
-      <a href="https://www.javascript.com/" target="_blank">
+      <a href="https://www.javascript.com/"  target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="https://reactjs.org/">
+      <a href="https://reactjs.org/"  target="_blank">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
       </a>
       <br>React JS
     </td>
     <td align="center" width="96">
-      <a href="https://pl.wikipedia.org/wiki/Linux">
+      <a href="https://pl.wikipedia.org/wiki/Linux"  target="_blank">
         <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
     </td>
     <td align="center" width="96">
-      <a href="https://git-scm.com/">
+      <a href="https://git-scm.com/"  target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="https://linuxconfig.org/bash-scripting-tutorial">
+      <a href="https://linuxconfig.org/bash-scripting-tutorial"  target="_blank">
         <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash scriptiong
     </td>
     <td align="center" width="96">
-      <a href="https://www.figma.com/">
+      <a href="https://www.figma.com/"  target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
       </a>
       <br>Figma
@@ -75,19 +75,19 @@
 <table align="center">
    <tr>
       <td align="center" width="96">
-         <a href="https://reactjs.org/">
+         <a href="https://reactjs.org/"  target="_blank">
             <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
          </a>
          <br>React JS
       </td>
       <td align="center" width="96">
-         <a href="https://tailwindcss.com/">
+         <a href="https://tailwindcss.com/"  target="_blank">
             <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
          </a>
          <br>TailWind
       </td>
       <td align="center" width="96">
-      <a href="https://www.typescriptlang.org/">
+      <a href="https://www.typescriptlang.org/"  target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
@@ -103,11 +103,11 @@
    
    <tr>
        <td align="center" width="96">
-<a href="https://twitter.com/m_urban98" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="m_urban98" height="30" width="30" /></a>
+<a href="https://twitter.com/m_urban98" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="m_urban98" height="30" width="30" /></a>
          <br>Twitter
        </td>
       <td align="center" width="96">
-<a href="https://linkedin.com/in/mateusz-urban-17804413b" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="mateusz-urban-17804413b" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/mateusz-urban-17804413b" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="mateusz-urban-17804413b" height="30" width="30" /></a>
           <br>Linkedin
       </td>
       <td align="center" width="96">
