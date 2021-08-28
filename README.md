@@ -6,7 +6,7 @@
 
  💻 All of my projects are available at [https://github.com/MateuszUrb](https://github.com/MateuszUrb)
 
-<img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="30px"> How to reach me [mailto](mailto:98urban.mateusz@gmail.com)
+<img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="15px"> How to reach me [mailto](mailto:98urban.mateusz@gmail.com)
 
 
 </br>
@@ -30,7 +30,7 @@
 <table align="canter">
   <tr>
     <td align="center" width="96">
-      <a href="https://www.javascript.com/">
+      <a href="https://www.javascript.com/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
