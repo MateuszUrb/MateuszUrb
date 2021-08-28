@@ -11,24 +11,26 @@
 
 </br>
    </br>
-## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-   <p>My name is Mateusz urban and I like internet related stuff (front-end, design ,AI, proggraming, information gathering, etc), I'm From Poland, and currently trying to find a job as a junior. Front end dev<p>
    
-   </br>
-   </br>
-<div align="center">   
- <img src="https://github.com/jglovier/gifs/blob/gh-pages/careful/indiana-jones-sand-bag.gif" alt="unicorn" width="400">
-</div>
-  
+## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+   <p>My name is Mateusz urban and I like internet related stuff (front-end, design ,AI, proggraming, information gathering, etc), I'm From Poland, and currently trying to find a job as a junior. Front end dev</p>
+   
 ## Spotify | currently playing 🎧
 </br>
 
 [![Spotify](https://novatorem12.vercel.app/api/spotify)](https://open.spotify.com/user/11161491278)
+   
+   </br>
+   </br>
+   
+<div align="center">   
+ <img src="https://github.com/jglovier/gifs/blob/gh-pages/careful/indiana-jones-sand-bag.gif" alt="unicorn" width="400">
+</div>
 
 <h2 align="left" id="suhailkakar-tech">Favorite Tech</h2>
 
 > Tools, languages, I have worked with
-
 
 <table align="left">
   <tr>
@@ -74,7 +76,7 @@
 </br>
 
 ## Learning in progress / want to learn 💻
-<table>
+<table align="left">
    <tr>
       <td align="left" width="96">
          <a href="#suhailkakar-tech">
@@ -104,3 +106,4 @@
 <a href="https://linkedin.com/in/mateusz-urban-17804413b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mateusz-urban-17804413b" height="30" width="30" /></a>
 <a href="https://fb.com/mateusz.urban.353" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mateusz.urban.353" height="30" width="30" /></a>
 </p>
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
