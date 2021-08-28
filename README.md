@@ -1,12 +1,12 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Welcome👨‍💻&width=1300&height=500)
    
-<h2>🔭</h2> I’m currently working on ... learning by doing
+### 🔭 I’m currently working on ... learning by doing
 
-<h2>🤓</h2> I’m currently learning **CSS Freamwork(Tailwing)**
+### 🤓 I’m currently learning **CSS Freamwork(Tailwing)**
 
-<h2>👨‍💻</h2> All of my projects are available at [https://github.com/MateuszUrb](https://github.com/MateuszUrb)
+### 💻 All of my projects are available at [https://github.com/MateuszUrb](https://github.com/MateuszUrb)
 
-<h2>📫</h2> How to reach me **98m.urban@gmail.com**
+### 📫 How to reach me **98m.urban@gmail.com**
 
 
 </br>
@@ -99,9 +99,19 @@
 </br>
 
 <h2>where you can find me 📯</h2>
-
-<p align="left">
+<table align="left">
+   <tr>
+       <td align="center" width="96">
 <a href="https://twitter.com/m_urban98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="m_urban98" height="30" width="30" /></a>
+         <br>Twitter
+       </td>
+      <td align="center" width="96">
 <a href="https://linkedin.com/in/mateusz-urban-17804413b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mateusz-urban-17804413b" height="30" width="30" /></a>
+          <br>Linkedin
+      </td>
+      <td align="center" width="96">
 <a href="https://fb.com/mateusz.urban.353" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mateusz.urban.353" height="30" width="30" /></a>
-</p>
+          <br>Facebook
+      </td>
+   </tr>
+</table>
