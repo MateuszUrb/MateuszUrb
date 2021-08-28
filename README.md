@@ -98,7 +98,7 @@
 </br>
 </br>
 
-<h2>where you can find me 📯</h2>
+<h2 align="left">where you can find me 📯</h2>
 <table align="left">
    <tr>
        <td align="center" width="96">
