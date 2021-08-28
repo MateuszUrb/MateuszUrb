@@ -1,11 +1,12 @@
    ![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hi%20There👨‍💻&width=1300&height=500)
-- 🔭 I’m currently working on ... [paper-world](https://github.com/MateuszUrb/Paper_world_website)
+   
+## 🔭 I’m currently working on ... learning by doing
 
-- 🤓 I’m currently learning **React and libs**
+## 🤓 I’m currently learning **CSS Freamwork(Tailwing)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MateuszUrb](https://github.com/MateuszUrb)
+## 👨‍💻 All of my projects are available at [https://github.com/MateuszUrb](https://github.com/MateuszUrb)
 
-- 📫 How to reach me **98m.urban@gmail.com**
+## 📫 How to reach me **98m.urban@gmail.com**
 
 
 
@@ -23,7 +24,7 @@
 
 </br>   
 
-<h2 align="left" id="suhailkakar-tech">Favorite Tech</h2>
+<h2 align="left">Favorite Tech</h2>
 
 > Tools, languages, I have worked with
 
@@ -95,7 +96,9 @@
    </tr>
 </table>
 
-<h2 align="left"2>where you can find me 📯</h2>
+</br>
+
+<h2>where you can find me 📯</h2>
 
 <p align="left">
 <a href="https://twitter.com/m_urban98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="m_urban98" height="30" width="30" /></a>
