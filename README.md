@@ -11,9 +11,8 @@
 
 </br>
    </br>
-
-   <p> <strong>I</strong> started getting more interest in the web, and technologies around it, and how it works under the hood while I was in my second year of high school, and from that point in time I started learning about primarily front-end tech stack, and now I'm looking for a job as full-time front-end dev hopefully in the near future, I'm also a learning bit about security in the web(XSS, web-scraping, validation, etc..., )
-   </h4>
+## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+   <p>My name is Mateusz urban and I like internet related stuff (front-end, design ,AI, proggraming, information gathering, etc), I'm From Poland, and currently trying to find a job as a junior. Front end dev<p>
    
    </br>
    </br>
@@ -45,9 +44,8 @@
       </a>
       <br>React JS
     </td>
-  </tr>
+
   
-  <tr>
     <td align="center" width="96">
       <a href="#suhailkakar-tech" >
         <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
@@ -60,8 +58,6 @@
       </a>
       <br>Git
     </td>
-  </tr>
-   <tr>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
         <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
