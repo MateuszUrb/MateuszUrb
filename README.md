@@ -98,8 +98,8 @@
 </br>
 </br>
 
-<table align="left">
 <h2>where you can find me 📯</h2>
+<table align="center">
    
    <tr>
        <td align="center" width="96">
