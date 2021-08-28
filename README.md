@@ -6,7 +6,11 @@
 
  💻 All of my projects are available at [https://github.com/MateuszUrb](https://github.com/MateuszUrb)
 
-<img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="15px"> How to reach me **```js console.log(98urban.mateusz@gmail.com)```** || send me [gmail](mailto:98urban.mateusz@gmail.com)
+<img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="15px"> How to reach me 
+```javascript
+console.log(98urban.mateusz@gmail.com)
+```
+|| send me [Mail](mailto:98urban.mateusz@gmail.com)
 
 
 </br>
