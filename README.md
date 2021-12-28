@@ -17,7 +17,7 @@
    
 ## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-   <p>My name is Mateusz urban and I like internet related stuff (front-end, design ,AI, proggraming, information gathering, etc), I'm From Poland, and currently trying to find a job as a junior. Front end dev</p>
+   <p>My name is Mateusz urban and I like internet related stuff (front-end, design ,AI, programing, information gathering, etc), I'm From Poland, and currently trying to find a job as a junior. Front end dev</p>
    
 ## Spotify | currently playing 🎧
 </br>
