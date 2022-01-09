@@ -100,7 +100,7 @@
    
    <tr>
        <td align="center" width="96">
-<a href="https://twitter.com/m_urban98" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="m_urban98" height="30" width="30" /></a>
+<a href="https://twitter.com/Matthew_uU" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="m_urban98" height="30" width="30" /></a>
          <br>Twitter
        </td>
       <td align="center" width="96">
