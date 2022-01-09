@@ -2,7 +2,7 @@
    
  🔭 I’m currently working on ... learning by doing
 
- 🤓 I’m currently learning **CSS Freamwork(Tailwing)**
+ 🤓 I’m currently learning **Gatsby**
 
  💻 All of my projects are available at [https://github.com/MateuszUrb](https://github.com/MateuszUrb)
 
@@ -82,12 +82,6 @@
             <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
          </a>
          <br>React JS
-      </td>
-      <td align="center" width="96">
-         <a href="https://tailwindcss.com/"  target="_blank">
-            <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
-         </a>
-         <br>TailWind
       </td>
       <td align="center" width="96">
       <a href="https://www.typescriptlang.org/"  target="_blank">
