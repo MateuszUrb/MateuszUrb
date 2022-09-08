@@ -6,7 +6,7 @@
 
  💻 All of my projects are available at [https://github.com/MateuszUrb](https://github.com/MateuszUrb)
 
-<img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="15px"> How to reach me send me: send me a <a href="mailto:98urban.mateusz@gmail.com">Mail</a>
+How to reach me send me: send me a <a href="mailto:98urban.mateusz@gmail.com">📫 Mail</a>
 > email address
 ```javascript
    98urban.mateusz@gmail.com 
@@ -26,53 +26,42 @@
 
 </br>   
 
-<h2>Favorite Tech</h2>
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+</div>
 
-> Tools, languages, I have worked with
+</td><td valign="top" width="33%">
 
-<table align="canter">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.javascript.com/"  target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://reactjs.org/"  target="_blank">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React JS
-    </td>
-    <td align="center" width="96">
-      <a href="https://pl.wikipedia.org/wiki/Linux"  target="_blank">
-        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="https://git-scm.com/"  target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="https://linuxconfig.org/bash-scripting-tutorial"  target="_blank">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash scriptiong
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.figma.com/"  target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-  </tr>
-</table>
 
-</br>
-</br>
+
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
 
 <h2>Learning in progress / want to learn 💻</h2>
 <table align="center">
@@ -95,24 +84,21 @@
 </br>
 </br>
 
-<h2>where you can find me 📯</h2>
-<table align="center">
-   
-   <tr>
-       <td align="center" width="96">
-<a href="https://twitter.com/Matthew_uU" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="m_urban98" height="30" width="30" /></a>
-         <br>Twitter
-       </td>
-      <td align="center" width="96">
-<a href="https://linkedin.com/in/mateusz-urban-17804413b" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="mateusz-urban-17804413b" height="30" width="30" /></a>
-          <br>Linkedin
-      </td>
-      <td align="center" width="96">
-<a href="https://fb.com/mateusz.urban.353" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/733/733547.png" alt="mateusz.urban.353" height="30" width="30" /></a>
-          <br>Facebook
-      </td>
-   </tr>
-</table>
+## Connect with me  
+<div align="center">
+<a href="https://github.com/MateuszUrb" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/mateuszurb" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/mateusz-urban-17804413b" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/mateusz.urban.353" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-</br>
-</br>
+<br/>  
