@@ -21,7 +21,7 @@ How to reach me send me: send me a <a href="mailto:98urban.mateusz@gmail.com">ðŸ
 </br>
 
 ## Spotify | currently playing ðŸŽ§
-<div align="center" style="width: 100%"
+<div align="center" style="width: 100%">
 [![Spotify](https://novatorem12.vercel.app/api/spotify)](https://open.spotify.com/user/11161491278)
 </div>
 </br>   
