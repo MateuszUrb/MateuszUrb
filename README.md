@@ -24,8 +24,8 @@ How to reach me send me: send me a <a href="mailto:98urban.mateusz@gmail.com">ðŸ
 [![Spotify](https://novatorem12.vercel.app/api/spotify)](https://open.spotify.com/user/11161491278)
 </br>   
 
-### Frontend  
-<div align="center" width="100%">  
+### Frontend
+<div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -35,9 +35,7 @@ How to reach me send me: send me a <a href="mailto:98urban.mateusz@gmail.com">ðŸ
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-</br>
-
+</td><td align="top" width="33%">
 
 ### Backend  
 <div align="center">  
@@ -46,9 +44,7 @@ How to reach me send me: send me a <a href="mailto:98urban.mateusz@gmail.com">ðŸ
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-</br>
-
+</td><td align="top" width="33%">
 
 ### DevOps  
 <div align="center">  
@@ -58,7 +54,6 @@ How to reach me send me: send me a <a href="mailto:98urban.mateusz@gmail.com">ðŸ
 </div>
 
 </td></tr></table>  
-<br/>  
 
 <h2>Learning in progress / want to learn ðŸ’»</h2>
 <table align="center">
