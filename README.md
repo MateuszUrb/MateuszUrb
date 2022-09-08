@@ -12,18 +12,18 @@ How to reach me send me: send me a <a href="mailto:98urban.mateusz@gmail.com">ðŸ
    98urban.mateusz@gmail.com 
 ```
 
-</br>
    </br>
    
 ## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
    <p>My name is Mateusz urban and I like internet related stuff (front-end, design ,AI, programing, information gathering, etc), I'm From Poland, and currently trying to find a job as a junior. Front end dev</p>
-   
-## Spotify | currently playing ðŸŽ§
+
 </br>
 
+## Spotify | currently playing ðŸŽ§
+<div align="center" style="width: 100%"
 [![Spotify](https://novatorem12.vercel.app/api/spotify)](https://open.spotify.com/user/11161491278)
-
+</div>
 </br>   
 
 ### Frontend  
@@ -81,7 +81,6 @@ How to reach me send me: send me a <a href="mailto:98urban.mateusz@gmail.com">ðŸ
    </tr>
 </table>
 
-</br>
 </br>
 
 ## Connect with me  
