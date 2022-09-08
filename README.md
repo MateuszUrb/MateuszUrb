@@ -1,19 +1,5 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Welcome👨‍💻&width=1300&height=500)
    
- 🔭 I’m currently working on ... learning by doing
-
- 🤓 I’m currently learning **Gatsby**
-
- 💻 All of my projects are available at [https://github.com/MateuszUrb](https://github.com/MateuszUrb)
-
-How to reach me send me: send me a <a href="mailto:98urban.mateusz@gmail.com">📫 Mail</a>
-> email address
-```javascript
-   98urban.mateusz@gmail.com 
-```
-
-   </br>
-   
 ## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
    <p>My name is Mateusz urban and I like internet related stuff (front-end, design ,AI, programing, information gathering, etc), I'm From Poland, and currently trying to find a job as a junior. Front end dev</p>
