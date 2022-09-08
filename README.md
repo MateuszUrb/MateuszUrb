@@ -36,7 +36,7 @@ How to reach me send me: send me a <a href="mailto:98urban.mateusz@gmail.com">ğŸ
 </div>
 
 </td><td valign="top" width="33%">
-
+</br>
 
 
 ### Backend  
@@ -47,7 +47,7 @@ How to reach me send me: send me a <a href="mailto:98urban.mateusz@gmail.com">ğŸ
 </div>
 
 </td><td valign="top" width="33%">
-
+</br>
 
 
 ### DevOps  
@@ -58,7 +58,6 @@ How to reach me send me: send me a <a href="mailto:98urban.mateusz@gmail.com">ğŸ
 </div>
 
 </td></tr></table>  
-
 <br/>  
 
 <h2>Learning in progress / want to learn ğŸ’»</h2>
