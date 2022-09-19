@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Welcome👨‍💻&width=1300&height=500)
+![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hi... xoxo👨‍💻&width=1300&height=500)
    
 ## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
