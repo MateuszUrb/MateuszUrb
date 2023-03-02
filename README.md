@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hi...xoxo💻&width=1300&height=500)
+![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hello :)&width=1300&height=500)
    
 ## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -45,8 +45,8 @@
 <table align="center">
    <tr>
       <td align="center" width="96">
-         <a href="https://reactjs.org/"  target="_blank">
-            <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+         <a href="https://nextjs.org//"  target="_blank">
+            <img src="https://brandlogos.net/wp-content/uploads/2022/07/next.js-logo_brandlogos.net_zeccw-512x512.png" width="48" height="48" alt="nextJs" />
          </a>
          <br>React JS
       </td>
