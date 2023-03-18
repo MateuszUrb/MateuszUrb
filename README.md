@@ -2,7 +2,13 @@
    
 ## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-   <p>My name is Mateusz urban and I like internet related stuff (front-end, design ,AI, programing, information gathering, etc), I'm From Poland, and currently trying to find a job as a junior. Front end dev</p>
+Hey there, I'm Mateusz.
+I'm a self-taught __front-end__ developer skilled in __HTML__, __CSS__, SCSS, and __JavaScript__, with experience in __React__.
+
+Currently, I'm also getting familiar with __TypeScript__ and __Next.js__. Sometimes I like to design something and build awesome user experiences, and I value good communication and collaboration to achieve great results as a team.
+I'm eager to widen my horizons as a developer and explore new technologies and programming languages. So far, I've only worked on my side project which is available on GitHub.
+
+I'm currently seeking employment opportunities in web development/front-end to continue growing my skills.
 
 </br>
 
