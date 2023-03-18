@@ -12,10 +12,6 @@ I'm currently seeking employment opportunities in web development/front-end to c
 
 </br>
 
-## Spotify | currently playing 🎧
-[![Spotify](https://novatorem12.vercel.app/api/spotify)](https://open.spotify.com/user/11161491278)
-</br>   
-
 ### Frontend
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -60,6 +56,10 @@ I'm currently seeking employment opportunities in web development/front-end to c
 </table>
 
 </br>
+
+## Spotify | currently playing 🎧
+[![Spotify](https://novatorem12.vercel.app/api/spotify)](https://open.spotify.com/user/11161491278)
+</br>   
 
 ## Connect with me  
 <div align="center">
