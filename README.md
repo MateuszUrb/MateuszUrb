@@ -61,7 +61,7 @@ I'm currently seeking employment opportunities in web development/front-end to c
 [![Spotify](https://novatorem12.vercel.app/api/spotify)](https://open.spotify.com/user/11161491278)
 </br>   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateuszUrb&show_icons=true&theme=tokyonight)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateuszUrb&show_icons=true&theme=tokyonight)
 
 
 ## Connect with me  
