@@ -56,7 +56,7 @@ I'm currently seeking employment opportunities in web development/front-end to c
 </table>
 
 </br>
-<center>
+<div style="text-align:center;">
 
 ## Spotify | currently playing 🎧
 [![Spotify](https://novatorem12.vercel.app/api/spotify)](https://open.spotify.com/user/11161491278)
@@ -64,7 +64,7 @@ I'm currently seeking employment opportunities in web development/front-end to c
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateuszUrb&show_icons=true&theme=tokyonight)
 
-</center>
+</div>
 
 ## Connect with me  
 <div align="center">
