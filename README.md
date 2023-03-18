@@ -48,7 +48,7 @@ I'm currently seeking employment opportunities in web development/front-end to c
          <a href="https://nextjs.org//"  target="_blank">
             <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="48" height="48" alt="nextJs" />
          </a>
-         <br>React JS
+         <br>Next.js
       </td>
       <td align="center" width="96">
       <a href="https://www.typescriptlang.org/"  target="_blank">
