@@ -3,12 +3,13 @@
 ## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Hey there, I'm Mateusz.
-I'm a self-taught __front-end__ developer skilled in __HTML__, __CSS__, SCSS, and __JavaScript__, with experience in __React__.
+I'm a self-taught __front-end__ developer skilled in __HTML__, __CSS__, __SCSS__, and __JavaScript__, with experience in __React__.
 
-Currently, I'm also getting familiar with __TypeScript__ and __Next.js__. Sometimes I like to design something and build awesome user experiences, and I value good communication and collaboration to achieve great results as a team.
-I'm eager to widen my horizons as a developer and explore new technologies and programming languages. So far, I've only worked on my side project which is available on GitHub.
+Currently, I'm also getting familiar with __TypeScript__ and __Next.js__. Sometimes I like to __design__ something and build awesome __UX__, and I value good __communication__ and __collaboration__ to achieve great results as a team.
 
-I'm currently seeking employment opportunities in web development/front-end to continue growing my skills.
+I'm eager to widen my horizons as a developer and explore new __technologies__ and __programming languages__. So far, I've only worked on my __side project__ which is available on GitHub.
+
+I'm currently seeking employment opportunities in __web development/front-end__ to continue growing my skills.
 
 </br>
 
