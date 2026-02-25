@@ -1,45 +1,32 @@
-<pre>
-# Mateusz Urban
---------------------------------------------------
-> Mateusz — self-taught front-end developer
-> Focus: Web / Frontend Development
-> Status: Open to job opportunities
-   
---------------------------------------------------
-#### about
---------------------------------------------------
-Hey there — I'm Mateusz.
 
-I'm a self-taught front-end developer focused on building clean, responsive interfaces and thoughtful user experiences.  
-I enjoy turning designs into solid UI, value clear communication, and work well in collaborative environments.
+▄▄▄█████▓ ██░ ██ ▓█████  ▒█████  
+▓  ██▒ ▓▒▓██░ ██▒▓█   ▀ ▒██▒  ██▒
+▒ ▓██░ ▒░▒██▀▀██░▒███   ▒██░  ██▒
+░ ▓██▓ ░ ░▓█ ░██ ▒▓█  ▄ ▒██   ██░
+  ▒██▒ ░ ░▓█▒░██▓░▒████▒░ ████▓▒░
+  ▒ ░░    ▒ ░░▒░▒░░ ▒░ ░░ ▒░▒░▒░ 
+    ░     ▒ ░▒░ ░ ░ ░  ░  ░ ▒ ▒░ 
+  ░       ░  ░░ ░   ░   ░ ░ ░ ▒  
+          ░  ░  ░   ░  ░    ░ ░  
+                                 
+#### about me
+--------------------------------------------------
+I became interested in programming while in art school, thanks to my
+roommate for lending me his MacBook.
+After learning how to draw and paint, I could write some silly programs in my free time.
 
-So far I've mainly worked on side projects available here on GitHub.  
-Currently looking for a role in web / front-end development to keep growing professionally.
+I like to dig into why something is not working or perhaps working but should not be.
 
---------------------------------------------------
-#### skills
---------------------------------------------------
-Frontend:
-  • HTML5
-  • CSS3 / SCSS
-  • JavaScript
-  • React
+When given multiple choices, I try to pick the one that is rational and logical.
 
-Backend / tooling:
-  • Node.js
-Design:
-  • Figma
-
+#### what I'm currently doing
 --------------------------------------------------
-#### learning 
---------------------------------------------------
-Currently learning:
-  • Go
---------------------------------------------------
-#### connect
+> refreshing my ts/js 
+> learning go
+> trying to read more, currently I'm reading 1984(George Orwell)
+> 
+#### links
 --------------------------------------------------
 GitHub:   https://github.com/MateuszUrb  
 LinkedIn: https://linkedin.com/in/mateusz-urban-17804413b  
 
---------------------------------------------------
-</pre>
