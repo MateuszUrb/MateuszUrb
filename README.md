@@ -22,10 +22,10 @@ When given multiple choices, I try to pick the one that is rational and logical.
 
 #### what I'm currently doing
 --------------------------------------------------
-> refreshing my ts/js 
-> learning go
-> trying to read more, currently I'm reading 1984(George Orwell)
-> 
+* refreshing my ts/js 
+* learning go
+* trying to read more, currently I'm reading 1984(George Orwell)
+ 
 #### links
 --------------------------------------------------
 GitHub:   https://github.com/MateuszUrb  
